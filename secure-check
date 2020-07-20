@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-20T11:56:11.355Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="9pbDV1hgPk64ULWamKUL" version="13.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-20T12:03:28.388Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="za2KkM-NwdYIyXCdooLZ" version="13.4.8" type="github">
   <diagram id="GcA84v5Dbj1lihhHm_KH" name="Page-1">
-    <mxGraphModel dx="652" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,7 +115,7 @@
         <mxCell id="R9ClFKVdlw1jYPJtLN8K-41" value="&lt;font style=&quot;font-size: 18px&quot;&gt;外部系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="R9ClFKVdlw1jYPJtLN8K-34" vertex="1">
           <mxGeometry x="780" y="35" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="R9ClFKVdlw1jYPJtLN8K-53" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="R9ClFKVdlw1jYPJtLN8K-55">
+        <mxCell id="R9ClFKVdlw1jYPJtLN8K-53" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" edge="1" target="R9ClFKVdlw1jYPJtLN8K-55">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1090" y="391" as="sourcePoint" />
             <mxPoint x="609.1999999999998" y="330.47" as="targetPoint" />
@@ -157,8 +157,8 @@
             <mxPoint x="630.9000000000001" y="329.99999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R9ClFKVdlw1jYPJtLN8K-69" value="其他" style="text;html=1;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="610" y="251" width="40" height="20" as="geometry" />
+        <mxCell id="R9ClFKVdlw1jYPJtLN8K-69" value="&lt;font style=&quot;font-size: 14px&quot;&gt;其他&lt;/font&gt;" style="text;html=1;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="597" y="249" width="72" height="29" as="geometry" />
         </mxCell>
         <mxCell id="odP_6PGUG1f50tsminrQ-1" value="" style="endArrow=classic;html=1;exitX=0.831;exitY=1.022;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.83;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -181,7 +181,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="odP_6PGUG1f50tsminrQ-13" value="通过接口反馈回节调系统" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+        <mxCell id="odP_6PGUG1f50tsminrQ-13" value="通过接口反馈回节调系统" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;strokeColor=#3700CC;fillColor=#6a00ff;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="424" y="870" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="odP_6PGUG1f50tsminrQ-16" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="odP_6PGUG1f50tsminrQ-13">
@@ -227,6 +227,25 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1000" y="463" as="sourcePoint" />
             <mxPoint x="949" y="463" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="odP_6PGUG1f50tsminrQ-36" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;strokeWidth=2;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="R9ClFKVdlw1jYPJtLN8K-39" target="R9ClFKVdlw1jYPJtLN8K-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="80" as="sourcePoint" />
+            <mxPoint x="1040" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="682" y="80" />
+              <mxPoint x="1085" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="odP_6PGUG1f50tsminrQ-38" value="在建设边界系统之前，约定安全校核系统的计划数据都取自节调系统-电厂建议曲线信息" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#3700CC;fillColor=#6a00ff;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="597" y="-50" width="530" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="odP_6PGUG1f50tsminrQ-39" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="odP_6PGUG1f50tsminrQ-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="190" as="sourcePoint" />
+            <mxPoint x="862" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
