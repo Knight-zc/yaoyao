@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-20T12:59:00.843Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="eMoHCQjI7-1KRpkBO7Ta" version="13.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-20T13:09:15.815Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="AqjhsiiWq82-XpMlx3GU" version="13.4.8" type="github">
   <diagram id="GcA84v5Dbj1lihhHm_KH" name="Page-1">
-    <mxGraphModel dx="3980" dy="3052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1047" dy="1312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,19 +19,19 @@
         <mxCell id="R9ClFKVdlw1jYPJtLN8K-31" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="50" y="330" width="900" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="R9ClFKVdlw1jYPJtLN8K-1" value="模型管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="R9ClFKVdlw1jYPJtLN8K-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;模型管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="165" y="462" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R9ClFKVdlw1jYPJtLN8K-2" value="数据管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="R9ClFKVdlw1jYPJtLN8K-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;数据管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="525" y="462" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R9ClFKVdlw1jYPJtLN8K-3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;云南日前安全校核系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="309.5" y="352" width="179" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R9ClFKVdlw1jYPJtLN8K-4" value="案例管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="R9ClFKVdlw1jYPJtLN8K-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;案例管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="339" y="462" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R9ClFKVdlw1jYPJtLN8K-5" value="安全校核" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="R9ClFKVdlw1jYPJtLN8K-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;安全校核&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="339" y="572" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R9ClFKVdlw1jYPJtLN8K-7" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="R9ClFKVdlw1jYPJtLN8K-3" target="R9ClFKVdlw1jYPJtLN8K-1" edge="1">
@@ -67,16 +67,16 @@
             <mxPoint x="345" y="602" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R9ClFKVdlw1jYPJtLN8K-15" value="&lt;div&gt;断面、线路计划潮流（基态校核界面）&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="R9ClFKVdlw1jYPJtLN8K-15" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;断面、线路计划潮流（基态校核界面）&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="94" y="721" width="129" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="R9ClFKVdlw1jYPJtLN8K-16" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div&gt;不满足电网安全约束的情况​&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="R9ClFKVdlw1jYPJtLN8K-16" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;不满足电网安全约束的情况​&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="259" y="721" width="129" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="R9ClFKVdlw1jYPJtLN8K-17" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div&gt;​为满足安全约束的电厂出力要求及相关电厂灵敏度情况&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="R9ClFKVdlw1jYPJtLN8K-17" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;​为满足安全约束的电厂出力要求及相关电厂灵敏度情况&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="424" y="721" width="129" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="R9ClFKVdlw1jYPJtLN8K-18" value="&lt;div&gt;​电厂群约束建议（多元约束公式形式）&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="R9ClFKVdlw1jYPJtLN8K-18" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;​电厂群约束建议（多元约束公式形式）&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="590" y="721" width="129" height="50" as="geometry" />
         </mxCell>
         <mxCell id="R9ClFKVdlw1jYPJtLN8K-21" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="R9ClFKVdlw1jYPJtLN8K-13" target="R9ClFKVdlw1jYPJtLN8K-16" edge="1">
@@ -109,19 +109,19 @@
         <mxCell id="R9ClFKVdlw1jYPJtLN8K-35" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="R9ClFKVdlw1jYPJtLN8K-34" vertex="1">
           <mxGeometry width="900" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="R9ClFKVdlw1jYPJtLN8K-36" value="&lt;div&gt;oms（云电同方）​&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;" parent="R9ClFKVdlw1jYPJtLN8K-34" vertex="1">
+        <mxCell id="R9ClFKVdlw1jYPJtLN8K-36" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;oms（云电同方）​&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;" parent="R9ClFKVdlw1jYPJtLN8K-34" vertex="1">
           <mxGeometry x="44" y="25" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R9ClFKVdlw1jYPJtLN8K-37" value="&lt;div&gt;ocs（南瑞继保）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;" parent="R9ClFKVdlw1jYPJtLN8K-34" vertex="1">
+        <mxCell id="R9ClFKVdlw1jYPJtLN8K-37" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;ocs（南瑞继保）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;" parent="R9ClFKVdlw1jYPJtLN8K-34" vertex="1">
           <mxGeometry x="198" y="25" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R9ClFKVdlw1jYPJtLN8K-38" value="&lt;div&gt;水调系统（金水）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;" parent="R9ClFKVdlw1jYPJtLN8K-34" vertex="1">
+        <mxCell id="R9ClFKVdlw1jYPJtLN8K-38" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;水调系统（金水）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;" parent="R9ClFKVdlw1jYPJtLN8K-34" vertex="1">
           <mxGeometry x="344" y="25" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R9ClFKVdlw1jYPJtLN8K-39" value="&lt;div&gt;节调系统（大连理工）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;" parent="R9ClFKVdlw1jYPJtLN8K-34" vertex="1">
+        <mxCell id="R9ClFKVdlw1jYPJtLN8K-39" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;节调系统（大连理工）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;" parent="R9ClFKVdlw1jYPJtLN8K-34" vertex="1">
           <mxGeometry x="494" y="16" width="186" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="R9ClFKVdlw1jYPJtLN8K-40" value="&lt;div&gt;其他&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;" parent="R9ClFKVdlw1jYPJtLN8K-34" vertex="1">
+        <mxCell id="R9ClFKVdlw1jYPJtLN8K-40" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;其他&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;" parent="R9ClFKVdlw1jYPJtLN8K-34" vertex="1">
           <mxGeometry x="709" y="25" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R9ClFKVdlw1jYPJtLN8K-41" value="&lt;font style=&quot;font-size: 18px&quot;&gt;外部系统&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="R9ClFKVdlw1jYPJtLN8K-34" vertex="1">
@@ -133,7 +133,7 @@
             <mxPoint x="609.1999999999998" y="330.47" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R9ClFKVdlw1jYPJtLN8K-56" value="电厂建议曲线表" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
+        <mxCell id="R9ClFKVdlw1jYPJtLN8K-56" value="&lt;font style=&quot;font-size: 14px&quot;&gt;电厂建议曲线表&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="1021" y="330" width="128" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R9ClFKVdlw1jYPJtLN8K-60" value="" style="endArrow=classic;html=1;exitX=0.107;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.107;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="R9ClFKVdlw1jYPJtLN8K-35" target="R9ClFKVdlw1jYPJtLN8K-31" edge="1">
@@ -142,7 +142,7 @@
             <mxPoint x="170" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R9ClFKVdlw1jYPJtLN8K-63" value="&amp;nbsp; &amp;nbsp;机组检修、&lt;br&gt;&amp;nbsp; &amp;nbsp; 输变电检修、&lt;br&gt;断面极限单" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
+        <mxCell id="R9ClFKVdlw1jYPJtLN8K-63" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&amp;nbsp; &amp;nbsp;机组检修、&lt;br&gt;&amp;nbsp; &amp;nbsp; 输变电检修、&lt;br&gt;断面极限单&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="81" y="238" width="122" height="72" as="geometry" />
         </mxCell>
         <mxCell id="R9ClFKVdlw1jYPJtLN8K-64" value="" style="endArrow=classic;html=1;exitX=0.107;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.107;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
@@ -151,7 +151,7 @@
             <mxPoint x="298.29999999999995" y="329.32" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R9ClFKVdlw1jYPJtLN8K-65" value="cimmodel.txt&lt;br&gt;pas_e.txt" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
+        <mxCell id="R9ClFKVdlw1jYPJtLN8K-65" value="&lt;font style=&quot;font-size: 14px&quot;&gt;cimmodel.txt&lt;br&gt;pas_e.txt&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="250" y="237.32" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R9ClFKVdlw1jYPJtLN8K-66" value="" style="endArrow=classic;html=1;exitX=0.107;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.107;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
@@ -160,8 +160,8 @@
             <mxPoint x="447.29999999999995" y="328.63999999999993" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R9ClFKVdlw1jYPJtLN8K-67" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; 水位库容、梯级迟滞、&lt;br&gt;&amp;nbsp; &amp;nbsp;水位参数、历史数据、&lt;br&gt;流量参数、流域" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
-          <mxGeometry x="365" y="219.24" width="160" height="90.76" as="geometry" />
+        <mxCell id="R9ClFKVdlw1jYPJtLN8K-67" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 水位库容、梯级迟滞、水位参数、历史据、&lt;br&gt;流量参数、流域&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
+          <mxGeometry x="343" y="219.24" width="215" height="100.76" as="geometry" />
         </mxCell>
         <mxCell id="R9ClFKVdlw1jYPJtLN8K-68" value="" style="endArrow=classic;html=1;exitX=0.107;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.701;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -178,8 +178,8 @@
             <mxPoint x="786" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="odP_6PGUG1f50tsminrQ-2" value="风功率预测文件、光功率预测文件" style="text;html=1;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="723" y="244" width="190" height="31" as="geometry" />
+        <mxCell id="odP_6PGUG1f50tsminrQ-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;风功率预测文件、光功率预测文件&lt;/font&gt;" style="text;html=1;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="723" y="244" width="227" height="31" as="geometry" />
         </mxCell>
         <mxCell id="odP_6PGUG1f50tsminrQ-4" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R9ClFKVdlw1jYPJtLN8K-18" target="R9ClFKVdlw1jYPJtLN8K-39">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -254,7 +254,7 @@
             <mxPoint x="1190" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="odP_6PGUG1f50tsminrQ-43" value="计划在边界系统接入南网现货出清之后，将现货日前出清结果发回安全校核系统，作为系统输入，继续使用安全校核系统中的水位校核，以弥补现货没有校核水位的缺陷" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#3700CC;fillColor=#6a00ff;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="odP_6PGUG1f50tsminrQ-43" value="&lt;font style=&quot;font-size: 14px&quot;&gt;计划在边界系统接入南网现货出清之后，将现货日前出清结果发回安全校核系统，作为系统输入，继续使用安全校核系统中的水位校核，以弥补现货没有校核水位的缺陷&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#3700CC;fillColor=#6a00ff;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1240" y="347.32" width="270" height="78" as="geometry" />
         </mxCell>
         <mxCell id="odP_6PGUG1f50tsminrQ-44" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="odP_6PGUG1f50tsminrQ-43">
@@ -268,11 +268,11 @@
             <mxPoint x="1090" y="219" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="odP_6PGUG1f50tsminrQ-45" value="&lt;span style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;在建成边界系统之前，约定安全校核系统的计划数据都取自节调系统-电厂建议曲线信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3700CC;fillColor=#6a00ff;arcSize=50;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="odP_6PGUG1f50tsminrQ-45" value="&lt;span style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;在建成边界系统之前，约定安全校核系统的计划数据都取自节调系统-电厂建议曲线信息&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3700CC;fillColor=#6a00ff;arcSize=50;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1241" y="194" width="260" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="odP_6PGUG1f50tsminrQ-46" value="&lt;span style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;通过接口反馈回节调系统&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3700CC;fillColor=#6a00ff;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="430" y="872" width="150" height="40" as="geometry" />
+        <mxCell id="odP_6PGUG1f50tsminrQ-46" value="&lt;span style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;通过接口反馈回节调系统&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3700CC;fillColor=#6a00ff;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="430" y="872" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="odP_6PGUG1f50tsminrQ-48" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;strokeWidth=2;exitX=0.578;exitY=-0.015;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#d80073;strokeColor=#A50040;entryX=0.569;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R9ClFKVdlw1jYPJtLN8K-35" target="odP_6PGUG1f50tsminrQ-87">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -414,13 +414,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="odP_6PGUG1f50tsminrQ-92" value="经过清洗、归一化、基础校核的边界数据发送至南网云平台出清" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#3700CC;fillColor=#6a00ff;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1195" y="-297" width="360" height="42" as="geometry" />
+        <mxCell id="odP_6PGUG1f50tsminrQ-92" value="&lt;font style=&quot;font-size: 14px&quot;&gt;经过清洗、归一化、基础校核的边界数据发送至南网云平台出清&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#3700CC;fillColor=#6a00ff;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="-360" width="395" height="42" as="geometry" />
         </mxCell>
         <mxCell id="odP_6PGUG1f50tsminrQ-93" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="odP_6PGUG1f50tsminrQ-92">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1350" y="-200" as="sourcePoint" />
-            <mxPoint x="1375" y="-390" as="targetPoint" />
+            <mxPoint x="1388" y="-390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="odP_6PGUG1f50tsminrQ-94" value="" style="endArrow=classic;html=1;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="odP_6PGUG1f50tsminrQ-20" target="odP_6PGUG1f50tsminrQ-60">
