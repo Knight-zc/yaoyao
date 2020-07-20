@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-20T13:09:15.815Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="AqjhsiiWq82-XpMlx3GU" version="13.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-20T13:09:39.577Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="YkvKdilhYUWs5rpnwVl3" version="13.4.8" type="github">
   <diagram id="GcA84v5Dbj1lihhHm_KH" name="Page-1">
-    <mxGraphModel dx="1047" dy="1312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2178" dy="2046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -255,7 +255,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="odP_6PGUG1f50tsminrQ-43" value="&lt;font style=&quot;font-size: 14px&quot;&gt;计划在边界系统接入南网现货出清之后，将现货日前出清结果发回安全校核系统，作为系统输入，继续使用安全校核系统中的水位校核，以弥补现货没有校核水位的缺陷&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#3700CC;fillColor=#6a00ff;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="347.32" width="270" height="78" as="geometry" />
+          <mxGeometry x="1240" y="320" width="270" height="105.32" as="geometry" />
         </mxCell>
         <mxCell id="odP_6PGUG1f50tsminrQ-44" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="odP_6PGUG1f50tsminrQ-43">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
