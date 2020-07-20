@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2020-07-20T12:52:18.547Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="-gIcPBYnpeXMKZsUlnGN" version="13.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-20T12:59:00.843Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="eMoHCQjI7-1KRpkBO7Ta" version="13.4.8" type="github">
   <diagram id="GcA84v5Dbj1lihhHm_KH" name="Page-1">
-    <mxGraphModel dx="3980" dy="3216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3980" dy="3052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="odP_6PGUG1f50tsminrQ-98" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
+          <mxGeometry x="-144" y="-740" width="1330" height="1860" as="geometry" />
+        </mxCell>
+        <mxCell id="odP_6PGUG1f50tsminrQ-99" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
+          <mxGeometry x="1186" y="-740" width="1190" height="1860" as="geometry" />
+        </mxCell>
         <mxCell id="odP_6PGUG1f50tsminrQ-97" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="1530" y="250" width="830" height="540" as="geometry" />
         </mxCell>
@@ -439,12 +445,6 @@
             <mxPoint x="1490" y="-450" as="sourcePoint" />
             <mxPoint x="1375" y="-580" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="odP_6PGUG1f50tsminrQ-98" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
-          <mxGeometry x="-144" y="-740" width="1330" height="1860" as="geometry" />
-        </mxCell>
-        <mxCell id="odP_6PGUG1f50tsminrQ-99" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="-740" width="1190" height="1860" as="geometry" />
         </mxCell>
         <mxCell id="odP_6PGUG1f50tsminrQ-100" value="&lt;font style=&quot;font-size: 48px&quot;&gt;云南电网&lt;/font&gt;" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 2;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="300" y="980" width="266" height="80" as="geometry" />
