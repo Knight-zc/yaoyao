@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-20T12:14:09.945Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="SAfs9J-B_wVYKLXw_VS4" version="13.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-20T12:16:59.424Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="IG3UUR5fY1vkZXFpcsnz" version="13.4.8" type="github">
   <diagram id="GcA84v5Dbj1lihhHm_KH" name="Page-1">
-    <mxGraphModel dx="378" dy="1415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="541" dy="1520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,12 +181,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="odP_6PGUG1f50tsminrQ-13" value="通过接口反馈回节调系统" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;strokeColor=#3700CC;fillColor=#6a00ff;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="424" y="870" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="odP_6PGUG1f50tsminrQ-16" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="odP_6PGUG1f50tsminrQ-13">
+        <mxCell id="odP_6PGUG1f50tsminrQ-16" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800" y="860" as="sourcePoint" />
+            <mxPoint x="504" y="870" as="sourcePoint" />
             <mxPoint x="504" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -239,19 +236,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="odP_6PGUG1f50tsminrQ-39" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="862" y="30" as="sourcePoint" />
-            <mxPoint x="862" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="odP_6PGUG1f50tsminrQ-40" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="odP_6PGUG1f50tsminrQ-19" target="R9ClFKVdlw1jYPJtLN8K-55">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1140" y="430" as="sourcePoint" />
             <mxPoint x="1190" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="odP_6PGUG1f50tsminrQ-43" value="计划在边界系统接入南网现货出清之后，将现货日前出清结果发回安全校核系统，作为系统输入，继续使用安全校核系统中的水位校核，以弥补现货没有校核水位的缺陷" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeColor=#3700CC;fillColor=#6a00ff;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="odP_6PGUG1f50tsminrQ-43" value="计划在边界系统接入南网现货出清之后，将现货日前出清结果发回安全校核系统，作为系统输入，继续使用安全校核系统中的水位校核，以弥补现货没有校核水位的缺陷" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#3700CC;fillColor=#6a00ff;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1220" y="368" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="odP_6PGUG1f50tsminrQ-44" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="odP_6PGUG1f50tsminrQ-43">
@@ -260,8 +251,16 @@
             <mxPoint x="1375" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="odP_6PGUG1f50tsminrQ-45" value="&lt;span style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;在建成边界系统之前，约定安全校核系统的计划数据都取自节调系统-电厂建议曲线信息&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3700CC;fillColor=#6a00ff;arcSize=50;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="730" y="-20" width="260" height="50" as="geometry" />
+        <mxCell id="odP_6PGUG1f50tsminrQ-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="odP_6PGUG1f50tsminrQ-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="818" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="odP_6PGUG1f50tsminrQ-45" value="&lt;span style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;在建成边界系统之前，约定安全校核系统的计划数据都取自节调系统-电厂建议曲线信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3700CC;fillColor=#6a00ff;arcSize=50;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="688" y="-16" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="odP_6PGUG1f50tsminrQ-46" value="&lt;span style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;通过接口反馈回节调系统&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3700CC;fillColor=#6a00ff;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="430" y="872" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
